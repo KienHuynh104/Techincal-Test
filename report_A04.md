@@ -14,7 +14,7 @@ Trading teams and leadership need real-time answers to questions like:
 
 ---
 
-### 2.2 Core Business Objectives (Simplified)
+### 2.2 Core Business Objectives
 
 The liquidity analytics project is designed to help a crypto exchange understand how well its market is functioning. The goal is to support trading teams, product managers, and executives by giving them clear, real-time insights into:
 
